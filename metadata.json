@@ -1,0 +1,5 @@
+{
+  "name": "Nova Corp - Business Hours App",
+  "description": "A professional corporate website with time-based access control (Mon-Fri, 9-17). Features a simulation mode to test access restrictions.",
+  "requestFramePermissions": []
+}
